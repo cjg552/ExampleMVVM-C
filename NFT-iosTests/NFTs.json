@@ -1,0 +1,266 @@
+[
+  {
+    "id": "387",
+    "thumbnailUrl": "https://i.picsum.photos/id/40/500/500.jpg?hmac=4L40XQ64A-bQmM5jC9JfDiwj5J9_M14Mj9Kxz836pXE",
+    "title": "¿Animales o amigos?",
+    "description": "Colección NFT dedicada a nuestros amigos peludos que forman parte de nuestra familia. Los perros y los gatos",
+    "location": "Barcelona, Spain",
+    "creator": {
+      "name": "Carlos Jiménez",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267041"
+    },
+    "reviews": {
+      "positive": 4008,
+      "total": 4100
+    },
+    "photosCount": 50,
+    "offers": 161905,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "499",
+    "thumbnailUrl": "https://i.picsum.photos/id/177/500/500.jpg?hmac=EqsG2RX8ZIacNHGbOMdLLGnEHmtD-pckqiRA7dixh_g",
+    "title": "Explorador de pueblos asturianos",
+    "description": "Colección NFT con las mejores fotos de pueblos asturianos en donde se come estupéndamente y se respira paz",
+    "location": "Ciudad de MÃ©xico, Mexico",
+    "creator": {
+      "name": "Luis González",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267042"
+    },
+    "reviews": {
+      "positive": 1372,
+      "total": 1400
+    },
+    "photosCount": 77,
+    "offers": 68859,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "304",
+    "thumbnailUrl": "https://i.picsum.photos/id/1041/500/500.jpg?hmac=65WGivX04EYDb0RngTahhapYDqVn-_oAorJolkyewUc",
+    "title": "Surfeando mis problemas",
+    "description": "Colección NFT con fotos de los mejores surfistas actuales y pasados en plena acción",
+    "location": "Madrid, Spain",
+    "creator": {
+      "name": "Fernando Giménez",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267043"
+    },
+    "reviews": {
+      "positive": 2068,
+      "total": 2200
+    },
+    "photosCount": 58,
+    "offers": 150691,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "227",
+    "thumbnailUrl": "https://i.picsum.photos/id/552/500/500.jpg?hmac=xhz_UnakbIYc1wvTaAxKJt7MvTl3ykIrcPX9PEfFwN8",
+    "title": "La soledad de los pensamientos",
+    "description": "Colección NFT con fotos de personas en soledad, pensando y tranquilas. Acompañadas de nostalgia y un café",
+    "location": "Sevilla, Spain",
+    "creator": {
+      "name": "Alejando Sanz",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267044"
+    },
+    "reviews": {
+      "positive": 4995,
+      "total": 5000
+    },
+    "photosCount": 16,
+    "offers": 104031,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "537",
+    "thumbnailUrl": "https://i.picsum.photos/id/604/500/500.jpg?hmac=3rIIzq76UmkEC6oyDH9i6Rf7YZVLyEwVy1tcT2DKnXA",
+    "title": "Ante muerta que sencilla",
+    "description": "Coleción NFT de mujeres actuales en su día a día. ¿Cómo viven?, ¿cómo se relacionan?, ¿qué quieren?",
+    "location": "Granada, Spain",
+    "creator": {
+      "name": "Marco Asensio",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267045"
+    },
+    "reviews": {
+      "positive": 617,
+      "total": 630
+    },
+    "photosCount": 36,
+    "offers": 28357,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "404",
+    "thumbnailUrl": "https://i.picsum.photos/id/410/500/500.jpg?hmac=s8IfaRyDDpn50saFkyl_sfQ4tGWgN5PY5wui70ZIorg",
+    "title": "Ciudades con ecantanto",
+    "description": "Descubre las mejores ciudades de la vieja Europa a través de esta colección de NFTs",
+    "location": "Sevilla, Spain",
+    "creator": {
+      "name": "Guillermo López",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267046"
+    },
+    "reviews": {
+      "positive": 2156,
+      "total": 2200
+    },
+    "photosCount": 22,
+    "offers": 74685,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "587",
+    "thumbnailUrl": "https://i.picsum.photos/id/315/500/500.jpg?hmac=AbWYq_roDJyGvETLXoklwv1TjHEIIamXL4Z03YNQtn0",
+    "title": "La naturaleza se abre paso",
+    "description": "Colección NFT de fotos sobre desastre naturales o humanos y cómo la naturaleza vuelve a resurgir",
+    "location": "Bloomfield Hills, United States",
+    "creator": {
+      "name": "Alba Jiménez",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267047"
+    },
+    "reviews": {
+      "positive": 431,
+      "total": 431
+    },
+    "photosCount": 57,
+    "offers": 17908,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "138",
+    "thumbnailUrl": "https://i.picsum.photos/id/828/500/500.jpg?hmac=1ypSvCxi46m1LpIAin-N03Dc2SQac2wbjBP_D_56GJQ",
+    "title": "Fiestas del mundo",
+    "description": "Colección NFT con las mejores celebraciones que te puedes encontrar por todo el mundo",
+    "location": "MedellÃ­n, Colombia",
+    "creator": {
+      "name": "Emma Jiménez",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267048"
+    },
+    "reviews": {
+      "positive": 3558,
+      "total": 3600
+    },
+    "photosCount": 18,
+    "offers": 76463,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "381",
+    "thumbnailUrl": "https://i.picsum.photos/id/993/500/500.jpg?hmac=T4vqsTdp9yZeOvMq2nYr8gov1f9lek5m7W5wvE9IpEU",
+    "title": "Rincones en el infinito",
+    "description": "Colección NFT con paises infinitos de naturaleza pura en donde perderde y pensar es obligatorio",
+    "location": "Ciudad de MÃ©xico",
+    "creator": {
+      "name": "Statoshi Nakamoto",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e290267049"
+    },
+    "reviews": {
+      "positive": 2008,
+      "total": 2150
+    },
+    "photosCount": 16,
+    "offers": 58750,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "208",
+    "thumbnailUrl": "https://i.picsum.photos/id/12/500/500.jpg?hmac=eDPFWf-MrW9y-NrkWpEFk3Ogo9qpZ985kimtQNMNm94",
+    "title": "Playas con misterios ocultos",
+    "description": "Colección NFT con las mejores playas del mundo. Obviamente la mayoría de Almería",
+    "location": "Valencia, Spain",
+    "creator": {
+      "name": "Cristobal Colón",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e29026704155"
+    },
+    "reviews": {
+      "positive": 1258,
+      "total": 1300
+    },
+    "photosCount": 12,
+    "offers": 36866,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "264",
+    "thumbnailUrl": "https://i.picsum.photos/id/876/500/500.jpg?hmac=koe80CSYe7R20M4EhiwBN-wXkXPtgOfox4ucaibk8dU",
+    "title": "La fortaleza de la naturaleza",
+    "description": "Colección NFT que muestra los rasgos de fuerza de la naturaleza y como se adapta a cualquier entorno",
+    "location": "Madrid, Spain",
+    "creator": {
+      "name": "Diego López",
+      "avatarUrl": "https://i.pravatar.cc/150?u=a042581f4e29026704188"
+    },
+    "reviews": {
+      "positive": 1699,
+      "total": 1722
+    },
+    "photosCount": 35,
+    "offers": 41301,
+    "audio": "Spanish",
+    "chains": [
+      "BTC",
+      "ETH",
+      "ADA"
+    ],
+    "level": "Intermediate"
+  }
+]

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+ NFT-ios
+
+  Created by Carlos Jimenez on 23/1/22.
+  
+*/
+"popular:section_title" = "Last NFT sold";
+"popular:of" = "of";
+"carousel:watch_button" = "Explore";
+"detail:positive_reviews" =  "Positive reviews";
+"detail:photos" =  "photos";
+"detail:offers" =  "Offers";
+"detail:coins" =  "Network";
+"detail:level" =  "Level";
+"detail:none" =  "None";

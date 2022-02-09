@@ -29,7 +29,7 @@ class DetailViewControllerTests: XCTestCase {
         XCTAssertNotNil(viewController.tableView.dataSource)
         XCTAssertNotNil(viewController.tableView.superview)
         XCTAssertEqual(viewController.tableView.style, UITableView.Style.plain)
-        XCTAssertEqual(viewController.tableView.estimatedRowHeight, UITableView.automaticDimension)
+        XCTAssertEqual(viewController.tableView.estimatedRowHeight, 44.0)
         XCTAssertEqual(viewController.tableView.separatorStyle, .singleLine)
         XCTAssertEqual(viewController.tableView.sectionHeaderTopPadding, 0.0)
     }

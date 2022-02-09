@@ -31,14 +31,12 @@ class TableViewCellsTests: XCTestCase {
         XCTAssertTrue(cell.selectionStyle == .none)
         XCTAssertNotNil(cell.nameLabel.superview)
         XCTAssertNotNil(cell.avatarImageView.superview)
-        XCTAssertNotNil(cell.locationlabel.superview)
     }
     
     func testTeacherCellUpdate() {
         let cell = CreatorCell(style: .default, reuseIdentifier: "id")
         cell.drawCell(cell: cell, withViewModel: CreatorViewModel(name: "Pepe", location: "Almería, España", avatarUrl: ""))
         XCTAssertEqual(cell.nameLabel.text, "Pepe")
-        XCTAssertEqual(cell.locationlabel.text, "Almería, España")
         XCTAssertEqual(cell.avatarImageView.image, nil)
     }
     
